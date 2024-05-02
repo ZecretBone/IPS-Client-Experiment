@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "901119615031",
+    "firebase_url": "https://cmkl-ips-8b2ae-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "cmkl-ips-8b2ae",
+    "storage_bucket": "cmkl-ips-8b2ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901119615031:android:7d111adfee0590739c9fb2",
+        "android_client_info": {
+          "package_name": "com.example.ips_firebase_rtdb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXbbrMpnX6OKnFFxxTm5Qx4q9BE4jDeAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
